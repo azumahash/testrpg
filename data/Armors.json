@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"atypeId":5,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"盾","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
+{"id":2,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":130,"name":"帽子","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
+{"id":3,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"衣服","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
+{"id":4,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"戒指","note":"","params":[0,0,0,0,10,0,0,0],"price":300},
+{"id":5,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":6,"atypeId":1,"description":"\\N[6]的母親手縫製的衣服。","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"布衣","note":"","params":[0,0,0,0,0,0,0,0],"price":80},
+{"id":7,"atypeId":1,"description":"動物毛皮製成的鎧甲。擁有一點防禦力。","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"皮甲","note":"","params":[0,0,0,2,0,0,0,0],"price":140},
+{"id":8,"atypeId":1,"description":"環鎖製成的鎧甲。防護效果不錯。","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"鎖子甲","note":"","params":[0,0,0,5,0,0,0,0],"price":220},
+{"id":9,"atypeId":1,"description":"金屬製成的鎧甲。可以抵遇各種攻擊，但略微影響活動。","etypeId":4,"traits":[{"code":22,"dataId":1,"value":-0.03}],"iconIndex":137,"name":"板甲","note":"","params":[0,0,0,8,0,0,0,0],"price":300}
+]

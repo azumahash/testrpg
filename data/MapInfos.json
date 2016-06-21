@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"expanded":true,"name":"主人公家","order":3,"parentId":2,"scrollX":773.3333333333334,"scrollY":614.6666666666666},
+{"id":2,"expanded":true,"name":"村子","order":2,"parentId":0,"scrollX":773.3333333333334,"scrollY":614.6666666666666},
+{"id":3,"expanded":true,"name":"洞窟1","order":10,"parentId":5,"scrollX":762.6666666666666,"scrollY":757.3333333333334},
+{"id":4,"expanded":true,"name":"洞窟3","order":12,"parentId":5,"scrollX":1157.3333333333333,"scrollY":757.3333333333334},
+{"id":5,"expanded":true,"name":"洞窟","order":9,"parentId":0,"scrollX":773.3333333333334,"scrollY":614.6666666666666},
+{"id":6,"expanded":false,"name":"洞窟2","order":11,"parentId":5,"scrollX":762.6666666666666,"scrollY":757.3333333333334},
+{"id":7,"expanded":false,"name":"旅店","order":6,"parentId":2,"scrollX":773.3333333333334,"scrollY":614.6666666666666},
+{"id":8,"expanded":true,"name":"小女孩家","order":5,"parentId":2,"scrollX":773.3333333333334,"scrollY":614.6666666666666},
+{"id":9,"expanded":false,"name":"武器、道具店","order":7,"parentId":2,"scrollX":773.3333333333334,"scrollY":614.6666666666666},
+{"id":10,"expanded":false,"name":"開場","order":1,"parentId":0,"scrollX":773.3333333333334,"scrollY":614.6666666666666},
+{"id":11,"expanded":false,"name":"主人公家_結局","order":4,"parentId":1,"scrollX":773.3333333333334,"scrollY":613.3333333333334},
+{"id":12,"expanded":false,"name":"村長家","order":8,"parentId":2,"scrollX":773.3333333333334,"scrollY":614.6666666666666}
+]
